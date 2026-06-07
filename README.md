@@ -14,10 +14,8 @@ I test AI workflows in real work, then keep the parts that actually save time.
 
 ## Featured project 精选项目
 
-The first project I'm building. 我的第一个练手项目。
+### [AI协作项目管理工具包](https://github.com/ainiuma666/ai-collaboration-project-management-toolkit)
 
-### [travel-memories-ai](https://github.com/ainiuma666/travel-memories-ai)
+一套让 AI 参与项目管理的工具包：从原始材料生成项目章程、项目事实库、项目总控台、会议入库和协作视图。
 
-尝试用 AI 整理旅行照片和视频，并生成旅行记忆短片。
-
-It is not a polished product yet. It is where I started learning GitHub, AI agents, and automation workflows.
+It helps turn messy project notes into structured project artifacts: project charter, fact base, dashboard, meeting ingestion, and collaboration view.
